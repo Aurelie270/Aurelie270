@@ -1,4 +1,4 @@
-## 💫 Présentation
+# 💫 Présentation
 Je m'appelle Aurélie, docteure en Traitement Automatique des Langues (TAL) et je m’intéresse à la programmation (surtout Python) ainsi qu’aux outils qui permettent d’analyser ou manipuler des données linguistiques.<br><br> 
 
 
